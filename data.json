@@ -1,0 +1,29 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "type": "income",
+      "category": "Зарплата",
+      "amount": 56700,
+      "date": "2025-04-29"
+    },
+    {
+      "id": 2,
+      "type": "income",
+      "category": "вклад",
+      "amount": 13980,
+      "date": "2025-04-29"
+    },
+    {
+      "id": 3,
+      "type": "expense",
+      "category": "Бензин",
+      "amount": 2300,
+      "date": "2025-04-29"
+    }
+  ],
+  "stats": {
+    "income": 60571,
+    "expenses": 2300
+  }
+}
